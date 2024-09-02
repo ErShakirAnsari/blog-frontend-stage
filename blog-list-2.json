@@ -1,0 +1,19 @@
+{
+  "isNextPage": true,
+  "blogListingItemDtoList": [
+    {
+      "gitUserId": 111690697,
+      "updatedAt": "2024-01-01",
+      "title": "My First Blog Post on new blog post with some content and something new and everything",
+      "shortContent": "# Welcome to my blog!",
+      "slug": "hello-blog-post"
+    },
+    {
+      "gitUserId": 111728490,
+      "updatedAt": "2024-01-01",
+      "title": "My Second Blog Post",
+      "shortContent": "# Welcome to my blog!",
+      "slug": "hello-blog-post"
+    }
+  ]
+}
