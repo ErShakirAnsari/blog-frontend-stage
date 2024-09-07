@@ -1,0 +1,19 @@
+<svg className="size-10" viewBox="-408 -408 2016.00 2016.00" fill="#ffffff" stroke="#ffffff">
+    <g id="SVGRepo_bgCarrier" stroke-width="0">
+        <rect
+            x="-408"
+            y="-408"
+            width="2016.00"
+            height="2016.00"
+            rx="201.6"
+            fill="#000000"
+            opacity="0.99"
+            strokeWidth="0"></rect>
+    </g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+    <g id="SVGRepo_iconCarrier">
+        <path
+            id="path17923"
+            d="M518.474,105.344C305.831,120.286,0.168,154.236,0,570.687v523.97h474.504 v-560.61H316.946C306.965,384.354,430.23,345.701,564.274,316.03L518.474,105.344z M1154.198,105.344 c-212.643,14.942-518.306,48.893-518.473,465.343v523.97h474.505v-560.61H952.672C942.689,384.354,1065.956,345.701,1200,316.03 L1154.198,105.344L1154.198,105.344z"></path>
+    </g>
+</svg>
