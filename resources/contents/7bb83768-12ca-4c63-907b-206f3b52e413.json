@@ -1,0 +1,9 @@
+{
+  "uuid": "7bb83768-12ca-4c63-907b-206f3b52e413",
+  "gitUserId": 4674965,
+  "updatedAt": "2024-01-01",
+  "title": "My Second Blog Post",
+  "slug": "hello-blog-post",
+  "shortContent": "# Welcome to my blog!",
+  "content": "lorem ipsum dolor sit amet, consectetur adip, consectetur adipiscing elit"
+}
